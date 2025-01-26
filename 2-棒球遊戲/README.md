@@ -1,5 +1,6 @@
 # APCS_棒球遊戲
 題目來源：https://zerojudge.tw/ShowProblem?problemid=c297
+<img width="1434" alt="截圖 2025-01-26 下午2 25 26" src="https://github.com/user-attachments/assets/51d2a2f9-2463-4868-a123-6c41e9b25d55" />
 
 ## 題目內容
 
