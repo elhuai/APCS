@@ -58,15 +58,22 @@
 
 ### 範例
 
-以下是方便測試的範例數據：
+假設輸入數列為：
 
 ```python
-playerlist.append(['5','1B','1B','FO','GO','1B'])
-playerlist.append(['5','1B','2B','FO','FO','SO'])
-playerlist.append(['4','SO','HR','SO','1B'])
-playerlist.append(['4','FO','FO','FO','HR'])
-playerlist.append(['4','1B','1B','1B','1B'])
-playerlist.append(['4','GO','GO','3B','GO'])
-playerlist.append(['4','1B','GO','GO','GO'])
-playerlist.append(['4','SO','GO','2B','2B'])
-playerlist.append(['4','3B','GO','GO','FO'])
+5 1B 1B FO GO 1B
+5 1B 2B FO FO SO
+4 SO HR SO 1B
+4 FO FO FO HR
+4 1B 1B 1B 1B
+4 GO GO 3B GO
+4 1B GO GO SO
+4 SO GO 2B 2B
+4 3B GO GO FO
+3
+```
+
+則輸出結果為：
+```python
+0
+```
